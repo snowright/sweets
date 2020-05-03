@@ -1,1 +1,1 @@
-sweets prj = 'cd ~/Desktop/projects'
+sweets prj = 'cd ~/projects'
