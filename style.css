@@ -10,3 +10,7 @@
     color: #28ac5c;
   }
   
+  #homepage {
+    scroll-padding-bottom:10px;
+    border:5px double magenta
+  }
